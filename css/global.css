@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* Colors */
+
+/*
+60% of #677F98 - Primary
+30% of #676798 - Secondary
+10% of #679898 - Accent
+*/
+
+:root {
+  /* var(--primaryColor) !important; */
+  --primaryColor: #a4eda6;
+
+  /* var(--secondaryColor) !important; */
+  --secondaryColor: #ad95a0;
+
+  /* var(--accentColor) !important; */
+  --accentColor: #eda4c5;
+
+  /* var(--fontFamily) !important; */
+  --fontFamily: "Montserrat", serif;
+}
