@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Betania+Patmos+In&display=swap");
 
 /* Colors */
 
@@ -19,5 +19,5 @@
   --accentColor: #eda4c5;
 
   /* var(--fontFamily) !important; */
-  --fontFamily: "Montserrat", serif;
+  --fontFamily: "Betania Patmos In", cursive;
 }
