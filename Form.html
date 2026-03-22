@@ -11,9 +11,21 @@
     
     <form action="my-server-file.php" id="myform" name="myform" enctype="multipart/form-data">
 
+        <!-- text field-->
         <label for="first-name">First Name</label>
 <input type="text" name="fName" id="first-name" required />
-    </form>
+  
+<!-- drop down menue -->
+ <label for="colors">Choose a Color</label>
+ <select name="colors" id="colors" required>
+    <option value="">select</option>
+    <option value="white">white</option>
+    <option value="red">red</option>
+    <option value="blue">blue</option>
+    <option value="purple">purple</option>
+    <option value="yellow">yellow</option>
+ </select>
+</form>
 
     <script src="js/form.js"></script>
 </body>
